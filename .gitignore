@@ -1,0 +1,13 @@
+# Cache directories
+cache/
+.streamlit/cache/
+__pycache__/
+
+# Virtual environment
+venv/
+*.env
+
+# IDE and OS files
+.vscode/
+.idea/
+*.DS_Store
