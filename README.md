@@ -19,7 +19,6 @@ The result is a polished, user-friendly tool that allows any user to generate an
 
 **A live, deployed version of this application is available here:**  
 [**https://urban-analysis-tool.streamlit.app/**](https://urban-analysis-tool.streamlit.app/)  
-*(Note: This link will be updated after deployment is complete.)*
 
 ---
 
